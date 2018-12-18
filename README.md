@@ -10,11 +10,17 @@ the project.
 The code calculates both the shortest path and the minimum spanning tree for the input
 automatically.
 Input format for txt file:
+
 6 3 U
+
 A B 1
+
 A C 2
+
 B C 1
+
 A
+
 Here:
 6 is no of vertices; 3 is no of edges; U is type of edge and A is the source vertex.
 10
